@@ -1,0 +1,17 @@
+{
+  "name": "networkbytes-linux_base",
+  "version": "0.1.0",
+  "author": "networkbytes",
+  "summary": "puppet module to configure defaults on linux systems",
+  "license": "Apache 2.0",
+  "source": "https://github.com/NetworkBytes/puppet-linux_base",
+  "project_page": "https://github.com/NetworkBytes/puppet-linux_base",
+  "issues_url": "https://github.com/NetworkBytes/puppet-linux_base/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
